@@ -6,6 +6,7 @@
 + [Lorem Ipsum](https://github.com/lipsumio/alfred-lipsum)
 + [Packal Search](http://www.packal.org/workflow/packal-workflow-search)
 + [Placeholdit](https://github.com/brilin01/alfred-workflows/tree/master/placeholdit)
++ [Sonos](http://www.alfredforum.com/topic/5950-sonos-playback-control-search/)
 + [Spotify Mini Player](http://www.packal.org/workflow/spotify-mini-player)
 + [Trello Search](http://www.packal.org/workflow/trello-search)
 + [vbox](http://www.packal.org/workflow/vbox)
