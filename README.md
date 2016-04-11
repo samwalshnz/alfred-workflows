@@ -4,6 +4,7 @@
 + [Chrome Bookmarks](http://mdreizin.github.io/alfred-workflows/)
 + [Currency Converter](http://www.packal.org/workflow/currency-converter)
 + [Faker](http://www.packal.org/workflow/alfred-faker)
++ [FontAwesome](https://github.com/ruedap/alfred2-font-awesome-workflow)
 + [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow)
 + [Hash](https://github.com/willfarrell/alfred-hash-workflow)
 + [Lorem Ipsum](https://github.com/lipsumio/alfred-lipsum)
