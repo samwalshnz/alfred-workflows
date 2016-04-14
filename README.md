@@ -1,6 +1,7 @@
 # alfred-workflows
 
 + [Caniuse.com](https://github.com/willfarrell/alfred-caniuse-workflow)
++ [Character Counter](https://github.com/RyanVerhey/character-counter-alfred-workflow)
 + [Chrome Bookmarks](http://mdreizin.github.io/alfred-workflows/)
 + [Currency Converter](http://www.packal.org/workflow/currency-converter)
 + [Faker](http://www.packal.org/workflow/alfred-faker)
