@@ -4,6 +4,7 @@
 + [Character Counter](https://github.com/RyanVerhey/character-counter-alfred-workflow)
 + [Chrome Bookmarks](http://mdreizin.github.io/alfred-workflows/)
 + [Currency Converter](http://www.packal.org/workflow/currency-converter)
++ [Datetime Formatter](https://github.com/mwaterfall/alfred-datetime-format-converter)
 + [Faker](http://www.packal.org/workflow/alfred-faker)
 + [FontAwesome](https://github.com/ruedap/alfred2-font-awesome-workflow)
 + [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow)
