@@ -9,6 +9,8 @@
 + [FontAwesome](https://github.com/ruedap/alfred2-font-awesome-workflow)
 + [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow)
 + [Hash](https://github.com/willfarrell/alfred-hash-workflow)
++ [iOS Simulator](https://github.com/zumwalt/Alfred-iOS-Simulator-Workflow)
++ [iOS Simulator tools](http://www.packal.org/workflow/ios-simulator)
 + [LastPass](http://www.packal.org/workflow/lastpass-vault-manager) (To fix issues with latest lastpass cli: https://github.com/bachya/lp-vault-manager/issues/18)
 + [Lorem Ipsum](https://github.com/lipsumio/alfred-lipsum)
 + [Package Search](https://github.com/willfarrell/alfred-pkgman-workflow)
