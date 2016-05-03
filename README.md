@@ -14,6 +14,8 @@
 + [iOS Simulator tools](http://www.packal.org/workflow/ios-simulator)
 + [LastPass](http://www.packal.org/workflow/lastpass-vault-manager) (To fix issues with latest lastpass cli: https://github.com/bachya/lp-vault-manager/issues/18)
 + [Lorem Ipsum](https://github.com/lipsumio/alfred-lipsum)
++ [Open With Atom](https://github.com/franzheidl/alfred-workflows/blob/master/open-with-atom/Open%20with%20Atom.alfredworkflow)
++ [Open with Sublime Text 2](https://github.com/franzheidl/alfred-workflows/blob/master/open-with-sublime-text-2/Open%20with%20Sublime%20Text%202.alfredworkflow)
 + [Package Search](https://github.com/willfarrell/alfred-pkgman-workflow)
 + [Packal Search](http://www.packal.org/workflow/packal-workflow-search)
 + [Secure Password Generator](http://www.packal.org/workflow/secure-password-generator)
