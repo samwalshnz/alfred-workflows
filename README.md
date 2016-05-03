@@ -23,6 +23,7 @@
 + [Stack Overflow](http://www.packal.org/workflow/stack-overflow)
 + [Timezones](http://www.packal.org/workflow/timezones)
 + [Trello Search](http://www.packal.org/workflow/trello-search)
++ [Urban Dictionary](https://github.com/danylokostyshyn/urbandictionary-alfred-workflow)
 + [vbox](http://www.packal.org/workflow/vbox)
 + [Web to IP Address](http://www.packal.org/workflow/web-ip-address)
 + [What's My IP](http://www.packal.org/workflow/whats-my-ip)
