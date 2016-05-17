@@ -1,4 +1,4 @@
-# alfred-workflows
+# Alfred workflows I use
 
 These are the [Alfred](http://alfredapp.com) Workflows that I use.
 
