@@ -1,5 +1,9 @@
 # alfred-workflows
 
+These are the [Alfred](http://alfredapp.com) Workflows that I use.
+
+> Tip: I've found [Packal](http://www.packal.org/) great for searching for Alfred workflows.
+
 + [Caniuse.com](https://github.com/willfarrell/alfred-caniuse-workflow)
 + [Character Counter](https://github.com/RyanVerhey/character-counter-alfred-workflow)
 + [Chrome Bookmarks](http://mdreizin.github.io/alfred-workflows/)
@@ -12,6 +16,7 @@
 + [HTTP Status Codes](https://github.com/JoelQ/alfred-http)
 + [iOS Simulator](https://github.com/zumwalt/Alfred-iOS-Simulator-Workflow)
 + [iOS Simulator tools](http://www.packal.org/workflow/ios-simulator)
++ [Kill Process] (http://www.packal.org/workflow/kill-process)
 + [LastPass](http://www.packal.org/workflow/lastpass-vault-manager) (To fix issues with latest lastpass cli: https://github.com/bachya/lp-vault-manager/issues/18)
 + [Lorem Ipsum](https://github.com/lipsumio/alfred-lipsum)
 + [Open With Atom](https://github.com/franzheidl/alfred-workflows/blob/master/open-with-atom/Open%20with%20Atom.alfredworkflow)
