@@ -1,7 +1,5 @@
 # Alfred workflows I use
 
-These are the [Alfred](http://alfredapp.com) Workflows that I use.
-
 > Tip: I've found [Packal](http://www.packal.org/) great for searching for Alfred workflows.
 
 + [Caniuse.com](https://github.com/willfarrell/alfred-caniuse-workflow)
