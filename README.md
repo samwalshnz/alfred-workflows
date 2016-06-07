@@ -10,6 +10,7 @@
 + [Faker](http://www.packal.org/workflow/alfred-faker)
 + [FontAwesome](https://github.com/ruedap/alfred2-font-awesome-workflow)
 + [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow)
++ [Github](https://github.com/willfarrell/alfred-github-workflow)
 + [Hash](https://github.com/willfarrell/alfred-hash-workflow)
 + [HTTP Status Codes](https://github.com/JoelQ/alfred-http)
 + [iOS Simulator](https://github.com/zumwalt/Alfred-iOS-Simulator-Workflow)
