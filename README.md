@@ -28,6 +28,7 @@
 + [Slackfred](http://www.packal.org/workflow/slackfred)
 + [Sonos](http://www.alfredforum.com/topic/5950-sonos-playback-control-search/)
 + [Spotify Mini Player](http://www.packal.org/workflow/spotify-mini-player)
++ [Sourcetree](https://github.com/zhaocai/alfred2-sourcetree-workflow)
 + [Stack Overflow](http://www.packal.org/workflow/stack-overflow)
 + [Timezones](http://www.packal.org/workflow/timezones)
 + [Trello Search](http://www.packal.org/workflow/trello-search)
