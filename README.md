@@ -24,6 +24,7 @@
 + [Package Search](https://github.com/willfarrell/alfred-pkgman-workflow)
 + [Packal Search](http://www.packal.org/workflow/packal-workflow-search)
 + [Secure Password Generator](http://www.packal.org/workflow/secure-password-generator)
++ [PHPStorm](https://github.com/bchatard/phpstorm-alfred-workflow)
 + [Placeholdit](https://github.com/brilin01/alfred-workflows/tree/master/placeholdit)
 + [Slackfred](http://www.packal.org/workflow/slackfred)
 + [Sonos](http://www.alfredforum.com/topic/5950-sonos-playback-control-search/)
