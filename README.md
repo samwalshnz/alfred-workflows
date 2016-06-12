@@ -32,6 +32,7 @@
 + [Sourcetree](https://github.com/zhaocai/alfred2-sourcetree-workflow)
 + [Stack Overflow](http://www.packal.org/workflow/stack-overflow)
 + [Timezones](http://www.packal.org/workflow/timezones)
++ [Toggl](https://github.com/jason0x43/alfred-toggl)
 + [Trello Search](http://www.packal.org/workflow/trello-search)
 + [Urban Dictionary](https://github.com/danylokostyshyn/urbandictionary-alfred-workflow)
 + [vbox](http://www.packal.org/workflow/vbox)
