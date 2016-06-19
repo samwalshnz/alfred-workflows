@@ -8,6 +8,7 @@
 + [Currency Converter](http://www.packal.org/workflow/currency-converter)
 + [Datetime Formatter](https://github.com/mwaterfall/alfred-datetime-format-converter)
 + [Faker](http://www.packal.org/workflow/alfred-faker)
++ [FlushDNS](https://github.com/cdraeger/alfred2-flushdns-workflow)
 + [FontAwesome](https://github.com/ruedap/alfred2-font-awesome-workflow)
 + [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow)
 + [Github](https://github.com/willfarrell/alfred-github-workflow)
