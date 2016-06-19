@@ -28,6 +28,7 @@
 + [Placeholdit](https://github.com/brilin01/alfred-workflows/tree/master/placeholdit)
 + [Slackfred](http://www.packal.org/workflow/slackfred)
 + [Sonos](http://www.alfredforum.com/topic/5950-sonos-playback-control-search/)
++ [Speedtest](http://www.packal.org/workflow/speedtest)
 + [Spotify Mini Player](http://www.packal.org/workflow/spotify-mini-player)
 + [Sourcetree](https://github.com/zhaocai/alfred2-sourcetree-workflow)
 + [Stack Overflow](http://www.packal.org/workflow/stack-overflow)
