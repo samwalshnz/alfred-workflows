@@ -10,6 +10,7 @@
 + [Faker](http://www.packal.org/workflow/alfred-faker)
 + [FlushDNS](https://github.com/cdraeger/alfred2-flushdns-workflow)
 + [FontAwesome](https://github.com/ruedap/alfred2-font-awesome-workflow)
++ [Emoji Finder](http://www.packal.org/workflow/emoji-finder)
 + [Encode/Decode](https://github.com/willfarrell/alfred-encode-decode-workflow)
 + [Github](https://github.com/willfarrell/alfred-github-workflow)
 + [Hash](https://github.com/willfarrell/alfred-hash-workflow)
