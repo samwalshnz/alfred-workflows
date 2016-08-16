@@ -2,6 +2,8 @@
 
 > Tip: I've found [Packal](http://www.packal.org/) great for searching for Alfred workflows.
 
++ [Battery](http://www.alfredforum.com/topic/1211-battery-view-summary-stats-about-your-laptop-battery/)
++ [Bluetooth Switcher](https://github.com/uchida/alfred-switch-bluetooth)
 + [Caniuse.com](https://github.com/willfarrell/alfred-caniuse-workflow)
 + [Character Counter](https://github.com/RyanVerhey/character-counter-alfred-workflow)
 + [Chrome Bookmarks](http://mdreizin.github.io/alfred-workflows/)
@@ -20,6 +22,7 @@
 + [Kill Process] (http://www.packal.org/workflow/kill-process)
 + [LastPass](http://www.packal.org/workflow/lastpass-vault-manager) (To fix issues with latest lastpass cli: https://github.com/bachya/lp-vault-manager/issues/18)
 + [Lorem Ipsum](https://github.com/lipsumio/alfred-lipsum)
++ [Network](https://github.com/mrodalgaard/alfred-network-workflow)
 + [Network Location](http://www.packal.org/workflow/network-location)
 + [Open With Atom](https://github.com/franzheidl/alfred-workflows/blob/master/open-with-atom/Open%20with%20Atom.alfredworkflow)
 + [Open with Sublime Text 2](https://github.com/franzheidl/alfred-workflows/blob/master/open-with-sublime-text-2/Open%20with%20Sublime%20Text%202.alfredworkflow)
@@ -41,4 +44,5 @@
 + [Urban Dictionary](https://github.com/danylokostyshyn/urbandictionary-alfred-workflow)
 + [vbox](http://www.packal.org/workflow/vbox)
 + [Web to IP Address](http://www.packal.org/workflow/web-ip-address)
++ [Wi-fi Control](https://github.com/miromannino/alfred-wifi-control)
 + [What's My IP](http://www.packal.org/workflow/whats-my-ip)
