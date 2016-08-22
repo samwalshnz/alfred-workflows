@@ -32,6 +32,7 @@
 + [PHPStorm](https://github.com/bchatard/phpstorm-alfred-workflow)
 + [Placeholdit](https://github.com/brilin01/alfred-workflows/tree/master/placeholdit)
 + [Pokedex](https://www.dropbox.com/s/g0u2uoigujbmxar/Pokemondb%20Pokedex.alfredworkflow)
++ [Screenshots](http://alexwlchan.net/2014/08/alfred-screenshots/)
 + [Slackfred](http://www.packal.org/workflow/slackfred)
 + [Sonos](http://www.alfredforum.com/topic/5950-sonos-playback-control-search/)
 + [Speedtest](http://www.packal.org/workflow/speedtest)
